@@ -735,7 +735,3 @@ Netflix-Movies-and-TV-Shows-Analysis/
 **Solomon Isaac**
 
 Aspiring Data Analyst | SQL | Excel | Power BI | Python
-
----
-
-⭐ If you find this project useful, feel free to explore the SQL queries and analysis.
